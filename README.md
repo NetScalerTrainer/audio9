@@ -1,12 +1,13 @@
 # audio9
 Audio Learner 
 by Joseph Moses Bonsai Entertainment LLC
-**run program**
+
+*how to run the program*
 python3 audio9.py
 select a .mp3 or .wav file that you want to work with (usually a song)
 the audio waveform will appear in a new window.
 
-**MENU**
+*MENU*
 Options:
 1. Play full song
 2. Loop a segment
