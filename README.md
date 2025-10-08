@@ -25,4 +25,7 @@ You can click on the audio waveform window and press ESC button to stop playback
 *QUIT THE PROGRAM*
 Press 3 to exit the program.
 
+If you want to play with a different audio file you have to quit and restart the python script.
+
+<img width="1646" height="811" alt="audio9" src="https://github.com/user-attachments/assets/6a1e25a3-fbc4-4509-a914-85d22c135fc1" />
 
