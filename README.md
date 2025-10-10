@@ -1,42 +1,30 @@
 # audio9
-Audio Learner 
-by Joseph Moses Bonsai Entertainment LLC
 
-*how to run the program*
+## Description
+[Add your project description here. Explain what audio9 does, its purpose, and key features.]
 
-"pip install required"
+## Target Audience
+[Specify the intended audience, e.g., audio enthusiasts, developers, music producers, or learners.]
 
-"python3 audio9.py"
+## Table of Contents
+- [Overview](#overview)
+- [How to Run the Program](#how-to-run-the-program)
+- [Terminal Menu](#terminal-menu)
+  - [Play Full Song](#play-full-song)
+  - [Play a Selected Section on Loop](#play-a-selected-section-on-loop)
+  - [Quit the Program](#quit-the-program)
+- [Screenshot](#screenshot)
 
-I finder window will appear, to allow you to 
-select a .mp3 or .wav file that you want to work with (usually a song)
-the audio waveform will appear in a new window. (See image below)
+## Overview
+Audio Learner by Joseph Moses, Bonsai Entertainment LLC
 
-*Terminal MENU*
+This program allows you to interact with audio files (.mp3 or .wav) by visualizing their waveform and playing or looping specific sections.
 
-Options:
-1. Play full song
-2. Loop a segment
-3. Exit
-   
-Select an option (1-3): 
+## How to Run the Program
 
-*PLAY FULL SONG*
-
-Press 1. to play the full song. Click on the audio waveform window and press ESC button to stop playback at anytime.
-
-*PLAY A SELECTED SECTION ON LOOP*
-
-Use the mouse to click and drag on the waveform to select the section of the audio wave form that you want to loop.
-the terminal window will update with the start and stop time you selected.
-Press 2. to loop this selected audio, then enter in the number of times you want to loop the audio and press enter.
-You can click on the audio waveform window and press ESC button to stop playback at anytime.
-
-*QUIT THE PROGRAM*
-
-Press 3 to exit the program.
-
-If you want to play with a different audio file you have to quit and restart the python script.
+1. Install dependencies:
+   ```bash
+   pip install required
 
 <img width="1646" height="811" alt="audio9" src="https://github.com/user-attachments/assets/6a1e25a3-fbc4-4509-a914-85d22c135fc1" />
 
